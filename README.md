@@ -5,7 +5,7 @@ This repository contains the data cleaning process for the Datahut QA Assignment
 
 ## Assumptions
 1. **Handling Missing Values**: 
-   - For numeric fields like Age and Salary, missing values were replaced using the median of the respective column.
+   - For numeric fields like Age and Salary, missing values were replaced using the median or bfill of the respective column.
    - For categorical fields such as Name and Department, missing values were replaced with the mode (most frequent value) or a placeholder.
    
 2. **Email Formats**: 
