@@ -1,5 +1,7 @@
 # Datahut-QA-Assignment: Data Cleaning Process
 
+
+
 ## Introduction
 This repository contains the data cleaning process for the Datahut QA Assignment. The goal of this task was to clean a provided dataset to ensure it was ready for analysis. The dataset included employee information such as IDs, names, ages, emails, join dates, salaries, and departments. The cleaning process focused on handling missing values, removing duplicates, correcting email formats, and standardizing the data across different fields.
 
